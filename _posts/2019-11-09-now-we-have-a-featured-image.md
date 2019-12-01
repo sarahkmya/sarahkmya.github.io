@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Now we have a featured image
+title: Logo
 date: '2019-11-09 16:38:39'
-thumbnail: images/uploads/keeptouch.jpg.png
+<img align="left" width="100" height="100" src="sarahportfoliologo.png">
+thumbnail: sarahportfoliologo.png
 tags: featured image
 ---
-Hmmm. We will need to furnish alt and title from the article. It is a little strange too.
