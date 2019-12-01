@@ -4,4 +4,4 @@ title: About
 id: about
 ---
 
-This is my about page!!!!
+Click here to learn more about me, and my designs!
