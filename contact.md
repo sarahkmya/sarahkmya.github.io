@@ -34,5 +34,4 @@ id: contact
     
     
     <button type="submit" class="btn btn-primary">Submit</button>
-  </fieldset>
-</form>
+ </form>
