@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Projects
+title: Current Projects
 date: '2019-12-02 16:28:16'
-thumbnail: /images/uploads/keeptouch.jpg.png
+thumbnail:
 tags: entrepreneurship
 ---
 
@@ -16,7 +16,7 @@ p.ex1 {
 </head>
 <body>
 
-<h1>The margin-right Property</h1>
+<h1>Keep Touch</h1>
 
 <p>his is a messaging app I created, called Keep Touch. It's an online messaging system for people who are not technologically inclined.</p>
 <p class="ex1">I thought to create this app for people who are older. I found that with the people I know above 50, they had a lot of trouble understanding the concepts and functions of most applications such as WhatsApp, Messenger, Kik etc. </p>
