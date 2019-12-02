@@ -40,8 +40,6 @@ tags: entrepreneurship
 
 
 
-</body>
-</html>
 
 
 
