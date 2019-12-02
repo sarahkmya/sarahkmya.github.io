@@ -13,9 +13,7 @@ tags: entrepreneurship
 </style>
 </head>
 <body>
-  p.ex1 {
-  margin-right: 120px;
-}
+ 
 
 <h1>Keep Touch</h1>
 
