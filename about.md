@@ -3,7 +3,11 @@ layout: default
 title: About
 id: about
 ---
-<img src="/images/uploads/IMG_3707.JPG" alt="me" align="right" style="float right">
+<img src="/images/uploads/IMG_3707.JPG" alt="me" align="right" style="float right" >
+<div class=" about photo"img src="/images/uploads/IMG_3707.JPG" alt="me" align="right" style="float right" width= "40%" height="60%">
+  
+  
+  </div>
 <p>
 My name is Sarah Mya and I am passionate about creating environmentally friendly and intuitive designs. Below are my skills and proficiency in them.</P>
 
