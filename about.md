@@ -3,8 +3,8 @@ layout: default
 title: About
 id: about
 ---
-<img src="/images/uploads/IMG_3707.JPG" alt="me" align="right" style="float right" >
-<div class=" about photo"img src="/images/uploads/IMG_3707.JPG" alt="me" align="right" style="float right" width= "40%" height="60%">
+
+<div class=" about photo"img src="/images/uploads/IMG_3707.JPG" alt="me" align="right" style="float right">
   
   
   </div>
