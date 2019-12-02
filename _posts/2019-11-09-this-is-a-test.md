@@ -2,7 +2,7 @@
 layout: default
 title: Current Projects
 date: '2019-12-02 16:28:16'
-thumbnail:
+thumbnail:al-gatewood-tZc3vjPCk-Q-unsplash.jpg
 tags: entrepreneurship
 ---
 
