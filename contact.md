@@ -31,27 +31,7 @@ id: contact
       <input type="file" class="form-control-file" id="exampleInputFile" aria-describedby="fileHelp">
       <small id="fileHelp" class="form-text text-muted">This is some placeholder block-level help text for the above input. It's a bit lighter and easily wraps to a new line.</small>
    
-      <div class="form-check disabled">
-      <label class="form-check-label">
-          <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios3" value="option3" disabled="">
-          Option three is disabled
-        </label>
-      </div>
-    </fieldset>
-    <fieldset class="form-group">
-      <legend>Checkboxes</legend>
-      <div class="form-check">
-        <label class="form-check-label">
-          <input class="form-check-input" type="checkbox" value="" checked="">
-          Option one is this and that—be sure to include why it's great
-        </label>
-      </div>
-      <div class="form-check disabled">
-        <label class="form-check-label">
-          <input class="form-check-input" type="checkbox" value="" disabled="">
-          Option two is disabled
-        </label>
-      </div>
+    
     
     <button type="submit" class="btn btn-primary">Submit</button>
   </fieldset>
