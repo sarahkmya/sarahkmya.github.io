@@ -2,7 +2,7 @@
 layout: default
 title: Current Projects
 date: '2019-12-02 16:28:16'
-thumbnail:al-gatewood-tZc3vjPCk-Q-unsplash.jpg
+thumbnail:
 tags: entrepreneurship
 ---
 
@@ -15,7 +15,7 @@ tags: entrepreneurship
 <body>
  
 
-<div class="card text-white bg-secondary mb-3" style="max-width: 20rem;">
+<div class="card text-white bg-secondary mb-3" style="max-width: 30rem;">
   <div class="card-header">Keep Touch</div>
   <div class="card-body">
     <h4 class="card-title">Keep Touch - Oct '19</h4>
