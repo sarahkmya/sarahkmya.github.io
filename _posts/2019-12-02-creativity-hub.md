@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Creativity HUb
+title: Creativity Hub
 date: '2019-12-02 12:37:35'
 thumbnail: ''
 ---
-My name is Sarah Mya and I am passionate about creating environmentally friendly and intuitive designs. Below are my skills and proficiency in them.
+The creativity Hub was a school project created to immerse new learning styles into the mainstream curriculum.
