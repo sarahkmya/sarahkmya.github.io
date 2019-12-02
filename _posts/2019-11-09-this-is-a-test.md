@@ -5,7 +5,7 @@ date: '2019-12-02 16:28:16'
 thumbnail: /images/uploads/keeptouch.jpg.png
 tags: entrepreneurship
 ---
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
