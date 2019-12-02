@@ -9,12 +9,13 @@ tags: entrepreneurship
 <html>
 <head>
 <style>
-p.ex1 {
-  margin-right: 120px;
-}
+
 </style>
 </head>
 <body>
+  p.ex1 {
+  margin-right: 120px;
+}
 
 <h1>Keep Touch</h1>
 
