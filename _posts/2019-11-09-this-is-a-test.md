@@ -14,7 +14,7 @@ tags: entrepreneurship
 </head>
 <body>
  
-/div>
+
 <div class="card text-white bg-secondary mb-3" style="max-width: 20rem;">
   <div class="card-header">Keep Touch</div>
   <div class="card-body">
