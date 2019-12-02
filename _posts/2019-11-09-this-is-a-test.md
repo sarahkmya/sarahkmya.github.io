@@ -26,14 +26,14 @@ tags: entrepreneurship
   <div class="card-header">Creativity Hub</div>
   <div class="card-body">
     <h4 class="card-title">Creativity Hub '18</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text"> The creativity Hub was a school project created to immerce new learning styles into the mainstream curriculum.</p>
   </div>
 </div>
 <div class="card text-white bg-danger mb-3" style="max-width: 20rem;">
-  <div class="card-header">Header</div>
+  <div class="card-header"> Home Ami</div>
   <div class="card-body">
-    <h4 class="card-title">Danger card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h4 class="card-title"> Home Ami</h4>
+    <p class="card-text">Home Ami was another school project for our Maker Lab class, where we tried to create a new way for homeless people to become independant.</p>
   </div>
 </div>
 <div class="card text-white bg-warning mb-3" style="max-width: 20rem;">
