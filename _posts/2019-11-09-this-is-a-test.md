@@ -2,7 +2,7 @@
 layout: default
 title: Current Projects
 date: '2019-12-02 16:28:16'
-thumbnail: /images/uploads/keeptouch.jpg.png
+thumbnail: ''
 tags: entrepreneurship
 ---
 <html>
