@@ -6,30 +6,7 @@
 {% else %}
     {% assign current = site.posts[0] %}
 {% endif %}
-<p class="scroll">
-          <table class="table table-hover table-condensed" data-toggle="table" id="resultTable">
-            <thead class="thead-inverse">
-            <tr>
-                <th data-sortable="true">Full Name</th>
-                <th>Status</th>
-                <th data-sortable="true">Crew Rank</th>
-                <th data-sortable="true">Check</th>
-            </tr>
-            </thead>
-            <tr>
-            <?php
 
-            while(mysqli_stmt_fetch($stmt)) {
-            echo "<tr>";
-            echo "<td class=\"col-md-2\" onclick=\"window.open('../admin/uploaded_file.php?id=$id', '_blank', 'resizable=no,fullscreen=no,top=60,left=100,width=500,height=600')\"><span class=\"glyphicon glyphicon-user\" aria-hidden=\"true\"></span>&nbsp;".sprintf("%s", $full_name)."</td>";
-            echo "<td class=\"col-md-2\" onclick=\"window.open('../admin/uploaded_file.php?id=$id', '_blank', 'resizable=no,fullscreen=no,top=60,left=100,width=500,height=600')\">".sprintf("%s", $crew_status)."</td>";
-            echo "<td class=\"col-md-2\" onclick=\"window.open('../admin/uploaded_file.php?id=$id', '_blank', 'resizable=no,fullscreen=no,top=60,left=100,width=500,height=600')\">".sprintf("%s", $crew_rank)."</td>";
-            echo "<td class=\"col-md-2\"><input type=\"checkbox\" name=\"include[]\" value=\"$id - $full_name\"></td>";
-            echo '</tr>';
-          }
-          ?>
-          </tr>       
-         </table>
   </p> 
 <head>
 	<title>Sarah Mya </title>
